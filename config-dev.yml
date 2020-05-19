@@ -1,2 +1,2 @@
 config:
-  info: jdbc:mysql://localhost:3308/springcloud?useUnicode=true&characterEncoding=utf8&useSSL=false
+  info: jdbc:mysql://localhost:3309/springcloud?useUnicode=true&characterEncoding=utf8&useSSL=false
